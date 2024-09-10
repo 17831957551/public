@@ -1,0 +1,30 @@
+{
+    "data": [
+        {}
+    ],
+    "users": [
+        {
+            "username": "admin",
+            "password": "123456"
+        }
+    ],
+
+
+    "homeList":[
+        {
+            "id":1,
+            "src":"https://img0.baidu.com/it/u=2109853420,2168998653&fm=253&app=120&size=w931&n=0&f=JPEG&fmt=auto?sec=1726074000&t=9f0c92edbe8e752ff5583eaee02061ba",
+            "name":"像素大战",
+            "title":"这可不是是你玩过的俄罗斯方块!",
+            "plice":19
+        },
+        {
+            "id":2,
+            "src":"https://img0.baidu.com/it/u=1541869955,1932007990&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1726074000&t=15c9d7b21080f923d7d5edd299bd9d36",
+            "name":"像素大战",
+            "title":"这可不是是你玩过的俄罗斯方块!",
+            "plice":19
+        }
+
+    ]
+}

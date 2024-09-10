@@ -1,0 +1,45 @@
+.xiang {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center
+}
+.back{
+    width: 100vw;
+    height: 40px;
+    display: flex;
+    font-size: 30px;
+    float: left;
+}
+.back p{
+    width: 150px;
+}
+.tu{
+    font-size: 30px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    position: fixed;
+    top: 90px;
+    right: 138px;
+    z-index: 1;
+}
+.avatar-container img{
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    top: 64px;
+    right: 74px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+:where(.css-dev-only-do-not-override-1c0na6j).ant-list .ant-list-item .ant-list-item-meta .ant-list-item-meta-content {
+
+    color: rgba(0, 0, 0, 0.88);
+}
